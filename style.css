@@ -11,7 +11,6 @@ html, body {
 }
 
 /* Header */
-
 .header {
   background-color: #1C1C1C;
 }
@@ -88,7 +87,6 @@ html, body {
 }
 
 /* Main */
-
 .main {
   text-align: center;
   background: url('img/bg.jpg') no-repeat center center;
@@ -231,7 +229,6 @@ ul.ui-autocomplete li:hover {
 }
 
 /* Supporting */
-
 .supporting {
   background-color: #1C1C1C;
   text-align: center;
@@ -280,7 +277,6 @@ ul.ui-autocomplete li:hover {
 }
 
 /* Feature */
-
 .feature {
   background: url('img/feature.jpg') no-repeat center center;
   background-size: cover;
@@ -308,7 +304,6 @@ ul.ui-autocomplete li:hover {
 }
 
 /* Footer */
-
 .footer {
   background-color: #1C1C1C;
   padding: 40px 0 20px;
@@ -338,7 +333,6 @@ ul.ui-autocomplete li:hover {
 }
 
 /* Resizing */
-
 @media (max-width: 768px) {
     .feature h2 {
         font-size: 42px;
